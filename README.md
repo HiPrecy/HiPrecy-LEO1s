@@ -26,7 +26,7 @@ LEO1s  have two UI theme for you to choose. Which one do you prefer ?
 
 ## Accurate probe
 
-Obviously , you can see the differences from the pictures below. The cable of new probe is much stronger than the old one. This ensure the printer gets stable and accurate signal from the probe.   
+Obviously , you can see the differences from the pictures below. The cable of new probe is much stronger than the old one. This ensure the printer gets stable and accurate signal from the probe.   And the new one support S6 board but old one not.
 
 ![](images/Probe.jpg)
 
