@@ -4,6 +4,8 @@ It has not been that long ago since we released **LEO** , you know the date **20
 
 So let me introduce you to our newest HiPrecy machine, the **HiPrecy LEO1s **. It looks very familiar, but many parts are **new and improved**. Don’t be deceived by the familiar look! Let's take a look at new features.
 
+![](images/LEO1s.jpg)
+
 ## New features
 
 - **Marlin 2.0.x support**
@@ -57,7 +59,7 @@ So , there are two benefits to have a larger max current. First obviously , it h
 
 | Item       | Old                            | New                            |
 | ---------- | ------------------------------ | ------------------------------ |
-| Hotend     | ![](images/Hotend-old.jpg)     | ![](images/hotend-new.jpg)     |
+| Hotend     | ![](images/Hotend-old.jpg)     | ![](images/hotend.jpg)         |
 | Thermistor | ![](images/Thermistor-old.jpg) | ![](images/Thermistor-new.jpg) |
 
 E3D V6 Hotend Block and the new thermistor. I think you already know the advantage of E3D hotend , and the head of the new thermistor is covered with cap , makes it safe and easy to install to the hotend. And it will be stable after the screw is tightened up. 
